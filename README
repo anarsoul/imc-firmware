@@ -1,0 +1,5 @@
+IMC is a hardware AY8912 emulator, based on Z80 and i8253 as a sound generator.
+
+This repo contains a firmware ("BIOS") for it.
+
+Schematic will be published soon.
