@@ -181,8 +181,7 @@ nmiwor: push        af
         out        (#12),a
         pop        hl
         pop        af
-        di
-        ret
+        retn
 zend:   .db        #255,#255,#255
 
         .area CONST
